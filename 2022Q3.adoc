@@ -1,0 +1,63 @@
+= 2022Q3 Reports: SIGTURK
+:bibtex-style: apa
+:bibtex-throw: true
+:toc:
+
+SIGTURK is the ACL Special Interest Group on Turkic Languages. SIGTURK aims to foster a collaborative, diverse, inclusive, and responsible environment bringing together enthusiasts of Turkic languages to stimulate comprehensive, interoperable, modular, and reusable work that provides utility and leads to state-of-the-art research in computational linguistics and natural language processing.
+
+== Membership
+
+The official establishment of SIGTURK is on April 12, 2022. As of July 6, 2022, SIGTURK has 38 members.
+
+== Board
+
+As of July 6, 2022, SIGTURK does not have a formally-elected board. Assuming officers are:
+
+* President: Duygu Ataman, New York University, USA
+* Secretary: Sardana Ivanova, University of Helsinki, Finland
+
+Our members that made code contributions to SIGTURK repositories during this year, sorted by the number of commits across the repositories:
+
+* Mehmet Oguz Derin @mehmetoguzderin
+* Jonne Sälevä @j0ma
+* Jamshidbek Mirzakhalov @mirzakhalov
+
+== Elections
+
+SIGTURK plans the first formal elections to take place in Autumn 2022.
+
+== Activities
+
+=== Core Specification
+
+To realize the vision of SIGTURK and to break the boundary of timezones that sync meetings require, SIGTURK authors an informative Core specification that defines a process and a set of guidelines to serve as many people as possible. SIGTURK Core is at https://sigturk.github.io/sigturk URL.
+
+SIGTURK Core takes care of a few aspects:
+* Defines a workflow to provide an open, ticket-traceable way to inquiry and contribute to the activities of SIGTURK,
+* Aims to define conduct that allows the SIGTURK to contain alternative perspectives (such as consonant inventory of the proto-Language),
+* Provides tooling guidelines to avoid common pitfalls such as non-normalized sources (by CI-checking NFKC sources).
+
+=== Meetings
+
+As defined by SIGTURK Core, the informal meetings take place on the Jitsi platform every Wednesday at 12 PM Eastern Time.
+
+== Communications
+
+=== Website
+
+SIGTURK website is at https://sigturk.github.io URL.
+
+=== Mailing List
+
+SIGTURK members get up-to-date information from the mailing list at https://groups.google.com/g/sigturk URL.
+
+== Future
+
+=== Workshop on Natural Language Processing for Turkic Languages
+
+SIGTURK plans to host a Workshop on Natural Language Processing for Turkic Languages.
+
+=== Business Meetings
+
+SIGTURK plans to host an in-person business meeting alongside the planned workshop.
+
