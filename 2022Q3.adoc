@@ -33,6 +33,7 @@ SIGTURK plans the first formal elections to take place in Autumn 2022.
 To realize the vision of SIGTURK and to break the boundary of timezones that sync meetings require, SIGTURK authors an informative Core specification that defines a process and a set of guidelines to serve as many people as possible. SIGTURK Core is at https://sigturk.github.io/sigturk URL.
 
 SIGTURK Core takes care of a few aspects:
+
 * Defines a workflow to provide an open, ticket-traceable way to inquiry and contribute to the activities of SIGTURK,
 * Aims to define conduct that allows the SIGTURK to contain alternative perspectives (such as consonant inventory of the proto-Language),
 * Provides tooling guidelines to avoid common pitfalls such as non-normalized sources (by CI-checking NFKC sources).
