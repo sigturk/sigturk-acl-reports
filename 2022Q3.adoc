@@ -1,4 +1,6 @@
 = 2022Q3 Reports: SIGTURK
+:bibtex-style: apa
+:bibtex-throw: true
 :toc:
 
 SIGTURK is the ACL Special Interest Group on Turkic Languages. SIGTURK aims to foster a collaborative, diverse, inclusive, and responsible environment bringing together enthusiasts of Turkic languages to stimulate comprehensive, interoperable, modular, and reusable work that provides utility and leads to state-of-the-art research in computational linguistics and natural language processing.
