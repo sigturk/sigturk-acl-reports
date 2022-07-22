@@ -30,7 +30,7 @@ SIGTURK plans the first formal elections to take place in Autumn 2022.
 
 === Core Specification
 
-To realize the vision of SIGTURK and to break the boundary of timezones that sync meetings require, SIGTURK authors an informative Core specification that defines a process and a set of guidelines to serve as many people as possible. SIGTURK Core is at https://sigturk.github.io/sigturk URL.
+To realize the vision of SIGTURK and to break the boundary of timezones that sync meetings require, SIGTURK authors an informative Core specification that defines a process and a set of guidelines to serve as many people as possible. SIGTURK Core is at link:++https://sigturk.github.io/sigturk++[https://sigturk.github.io/sigturk].
 
 SIGTURK Core takes care of a few aspects:
 
@@ -46,11 +46,11 @@ As defined by SIGTURK Core, the informal meetings take place on the Jitsi platfo
 
 === Website
 
-SIGTURK website is at https://sigturk.github.io URL.
+SIGTURK website is at link:++https://sigturk.github.io++[https://sigturk.github.io].
 
 === Mailing List
 
-SIGTURK members get up-to-date information from the mailing list at https://groups.google.com/g/sigturk URL.
+SIGTURK members get up-to-date information from the mailing list at link:++https://groups.google.com/g/sigturk++[https://groups.google.com/g/sigturk].
 
 == Future
 
@@ -62,3 +62,6 @@ SIGTURK plans to host a Workshop on Natural Language Processing for Turkic Langu
 
 SIGTURK plans to host an in-person business meeting alongside the planned workshop.
 
+=== International Advisory Committee
+
+SIGTURK plans to invite members from the scientific community or language or technology experts to serve on the international advisory committee.
