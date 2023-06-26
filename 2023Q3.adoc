@@ -1,0 +1,74 @@
+= 2023Q3 Reports: SIGTURK
+:bibtex-style: apa
+:bibtex-throw: true
+:toc:
+
+SIGTURK is the ACL Special Interest Group on Turkic Languages. SIGTURK continues to foster a collaborative, diverse, inclusive, and responsible environment to stimulate state-of-the-art research in computational linguistics and natural language processing of Turkic languages.
+
+== Membership
+
+Since its official establishment on April 12, 2022, SIGTURK's membership has been steadily increasing. Prior to this report, number of members is 95.
+
+== Board
+
+* President: Duygu Ataman, New York University, USA
+* Secretary: Sardana Ivanova, University of Helsinki, Finland
+* Officer: Mehmet Oguz Derin
+* Officer: Mammad Hajili
+* Officer: Jamshidbek Mirzakhalov
+* Officer: Jonne Sälevä
+* Officer: To be elected or appointed
+
+== Elections
+
+Following the successful completion of the first formal elections in Autumn 2022, SIGTURK also had an election to increase number of officers.
+
+== Activities
+
+=== Reading and Research Sub Interest Group
+
+In our continued pursuit of fostering a comprehensive academic environment, a Reading and Research Sub Interest Group was established. The group aims to encourage and facilitate the exploration of the rich linguistic landscape of Turkic languages and contextualize Turkic languages within modern NLP. Group also aims to make elements of general NLP subject of investigation to foster dialogue on state of the art in emerging methods.
+
+=== Newsletter
+
+SIGTURK now publishes newsletters summarizing activities, aggregating news and calls for engagement, first one was sent out in June.
+
+=== Core Specification
+
+SIGTURK continues to iterate on its Core specification to foster an open, participatory, and time-zone inclusive environment. The Core is available at link:++https://sigturk.github.io/sigturk++[https://sigturk.github.io/sigturk].
+
+== Meetings
+
+With a growing international member base, plans are being made to accommodate various timezones by scheduling more meetings, which can also reduce problems with conflicts of individual schedules.
+
+== Communications
+
+=== Website
+
+SIGTURK website is at link:++https://sigturk.github.io++[https://sigturk.github.io].
+
+=== Mailing List
+
+SIGTURK members get up-to-date information from the mailing list at link:++https://groups.google.com/g/sigturk++[https://groups.google.com/g/sigturk].
+
+== Future
+
+=== Turkic Multi-lingual NLP Research Efforts
+
+SIGTURK will continue initiating efforts to establish a multilingual Turkic language corpus covering annotations in prominent NLP tasks. First focus will be benchmarking for NER and question answering. Likely to be dependent on the execution of scheduling of workshop.
+
+=== Workshop on Natural Language Processing for Turkic Languages
+
+SIGTURK started planning the organization of an annual workshop in conjunction with an ACL conference in 2024.
+
+=== Annotations and Python Convenience Packages
+
+Looking ahead, SIGTURK plans to explore the annotation of phrasal structures across Turkic languages and develop Python convenience packages, adhering to clean code guidelines, to enhance computational linguistic research accessibility.
+
+=== Business Meetings
+
+SIGTURK plans to host virtual business meetings alongside the planned workshop, considering the current global circumstances.
+
+=== International Advisory Committee
+
+In line with its commitment to foster an inclusive and diverse research environment, SIGTURK continues to invite members from the scientific community or language or technology experts to serve on the international advisory committee.
