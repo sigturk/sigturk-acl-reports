@@ -44,7 +44,7 @@ SIGTURK members get up-to-date information from the mailing list at link:++https
 
 == Future
 
-== Annotations and Python Convenience Packages
+=== Annotations and Python Convenience Packages
 
 Looking ahead, SIGTURK plans to explore the annotation of phrasal structures across Turkic languages and develop Python convenience packages, adhering to clean code guidelines, to enhance computational linguistic research accessibility.
 
