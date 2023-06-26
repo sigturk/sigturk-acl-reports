@@ -55,7 +55,7 @@ SIGTURK members get up-to-date information from the mailing list at link:++https
 
 === Turkic Multi-lingual NLP Research Efforts
 
-SIGTURK will facilitate efforts to achieve a benchmark of NLP across Turkic languages, focusing on NER and other tasks including benchmarking. Likely to be dependent on the execution of scheduling of workshop.
+SIGTURK will continue initiating efforts to establish a multilingual Turkic language corpus covering annotations in prominent NLP tasks. First focus will be benchmarking for NER and question answering. Likely to be dependent on the execution of scheduling of workshop.
 
 === Workshop on Natural Language Processing for Turkic Languages
 
