@@ -19,6 +19,8 @@ The current SIGTURK board consists of:
 * Mammad Hajili, Officer
 * Mehmet Oguz Derin, Officer
 
+Due to nominations matching the number of open positions, voting did not take place during this term.
+
 == Major Developments
 
 === SIGTURK 2024 Workshop at ACL 2024
