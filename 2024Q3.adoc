@@ -1,0 +1,63 @@
+= 2024Q3 Annual Report: SIGTURK
+:bibtex-style: apa
+:bibtex-throw: true
+:toc:
+
+SIGTURK, the ACL Special Interest Group on Turkic Languages, continues to foster a collaborative, diverse, inclusive, and responsible environment to stimulate state-of-the-art research in computational linguistics and natural language processing of Turkic languages. This annual report highlights our significant achievements and ongoing initiatives for 2024.
+
+== Membership and Board
+
+Before this report, SIGTURK's membership has grown to 136 members, reflecting the increasing interest in Turkic language research within the NLP community.
+
+The current SIGTURK board consists of:
+
+* Duygu Ataman, President
+* Sardana Ivanova, Secretary
+* Abdullatif Köksal, Officer
+* Aziza Mirsaidova, Officer
+* Jonne Sälevä, Officer
+* Mammad Hajili, Officer
+* Mehmet Oguz Derin, Officer
+
+== Major Developments
+
+=== SIGTURK 2024 Workshop at ACL 2024
+
+The most significant development of this year is the organization of our first workshop, SIGTURK 2024, scheduled to take place during ACL 2024. This two-day event represents an important milestone for our community and promises to be a hub for cutting-edge research in Turkic language processing.
+
+Key highlights:
+
+* Two-day workshop during ACL 2024
+* More than 20 high-quality submissions received
+* Platform for presenting state-of-the-art research in Turkic NLP
+* Opportunity for networking and collaboration among researchers and practitioners
+
+The overwhelming response to our call for papers, with over 20 submissions, demonstrates the growing interest and importance of Turkic languages in the NLP community. This workshop will set a new benchmark for research in this field and pave the way for future advancements.
+
+=== Enhancements to Core Guidelines
+
+As part of our ongoing efforts to improve our core guidelines, we continue to refine our principles, building upon the work of the past two years. This process includes examining information security aspects, promoting best practices languages such as Rust, and introducing quantitative metrics to evaluate and provide alternatives to potentially concerning libraries within the ecosystem. These enhancements will culminate in the first presentation of our core guidelines principles during the SIGTURK 2024 workshop.
+
+== Communications and Infrastructure
+
+To improve our outreach and streamline our operations, we have implemented several changes:
+
+* Migrated our online presence to sigturk.com, providing a more professional and accessible platform for our community.
+* Established contact at sigturk dot com as the single, reliable point of contact for all inquiries.
+* Reduced the amount of data collected from members and participants, enhancing privacy protections.
+* Transitioned to an opt-in communication model, respecting members' preferences for engagement.
+* Shifted from an invitation-based calendar system to an observation-based one, promoting inclusivity and respecting members' and potential collaborators' autonomy in participating in SIGTURK activities.
+
+== Future Plans
+
+Looking ahead, SIGTURK is committed to:
+
+* Expanding the reach and impact of our first workshop and beyond
+* Continuing to refine and expand our core guidelines based on community feedback and emerging best practices.
+* Exploring opportunities for collaborative research projects across Turkic languages.
+* Enhancing our educational initiatives to support early-career researchers in Turkic language NLP.
+* Hold the elections for the board at the appropriate dates.
+
+== Conclusion
+
+2024 marks a significant milestone for SIGTURK with organizing our first workshop and substantial improvements in our guidelines and infrastructure. We remain dedicated to advancing the field of Turkic language NLP and fostering a vibrant, inclusive community of researchers and practitioners.
