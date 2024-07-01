@@ -50,6 +50,8 @@ To improve our outreach and streamline our operations, we have implemented sever
 * Transitioned to an opt-in communication model, respecting members' preferences for engagement.
 * Shifted from an invitation-based calendar system to an observation-based one, promoting inclusivity and respecting members' and potential collaborators' autonomy in participating in SIGTURK activities.
 
+Our website is at: https://sigturk.com
+
 == Future Plans
 
 Looking ahead, SIGTURK is committed to:
